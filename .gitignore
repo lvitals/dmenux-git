@@ -1,0 +1,6 @@
+dmenux/
+dmenux*
+pkg/
+src/
+.SRCINFO
+.swp
