@@ -1,4 +1,4 @@
-# Maintainer: Adrian Sinclair <adrian at adrusi dot com>
+# Maintainer: Leandro Vital <leavitals at gmail dot com>
 
 _pkgname=dmenux
 pkgname=dmenux-git
